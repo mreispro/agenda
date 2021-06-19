@@ -1,5 +1,5 @@
 function Home() {
-    return <div>Home 2</div>
+    return <div>Oi Xande</div>
 }
 
-export default Home 
+export default Home
