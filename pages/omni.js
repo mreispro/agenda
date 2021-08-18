@@ -1,5 +1,5 @@
 function Home() {
     
-    return <div>Página em desenvolvimento com chat</div>
+    return <div>Página de teste da Omnicentral</div>
 }
 export default Home
