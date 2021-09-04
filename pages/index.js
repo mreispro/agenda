@@ -11,6 +11,6 @@ function Home() {
     console.log(httpGet())
     </script>
 </head>
-    return <div>Página em desenvolvimento com chat</div>
+    return <div>Página em desenvolvimento com script</div>
 }
 export default Home
