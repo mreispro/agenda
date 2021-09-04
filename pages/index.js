@@ -7,10 +7,9 @@ function Home() {
                 xmlHttp.send( null );
                 return xmlHttp.responseText;
             }
-    
     console.log(httpGet())
     </script>
 </head>
-    return <div>Página em desenvolvimento com script</div>
+    return <div>Página em desenvolvimento com script 2</div>
 }
 export default Home
