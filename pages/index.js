@@ -1,6 +1,6 @@
 function Home() {
 <head>
-    <script>
+    <script type="text/javascript">
         function myFunction() {
             var xmlHttp = new XMLHttpRequest();
             xmlHttp.open( "GET", 'https://www.google.com.br', false ); // false for synchronous request
