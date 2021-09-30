@@ -1,16 +1,6 @@
 function Home() {
     
 return (
-    <!DOCTYPE html>
-<html lang="en" >
-<head>
-  <meta charset="UTF-8">
-  <title>CodePen - alura aula 1</title>
-  <link rel="stylesheet" href="./style.css">
-
-</head>
-<body>
-<!-- partial:index.partial.html -->
 <html>
   <head>
     <title> Imersão Dev Alura - Aula 01</title>
@@ -29,11 +19,7 @@ return (
     </a>
   </body>
 </html>
-<!-- partial -->
-  <script  src="./script.js"></script>
 
-</body>
-</html>
 )
 }
    
