@@ -1,8 +1,9 @@
 function Home() {
-<head>
-   
-</head>
-    
-    return <div id="demo" >Página em desenvolvimento com script 3</div>
+    function pagina() {
+
+   <div id="demo" >Página em desenvolvimento com script 3</div>
 }
+return  pagina
+}
+   
 export default Home
