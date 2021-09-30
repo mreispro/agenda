@@ -2,8 +2,7 @@ function Home() {
   ;<>
   <meta charSet="UTF-8" />
   <title>
-    OmniCentral – Sua solução para canais de contato em apenas um lugar – Just
-    another WordPress site
+    OmniCentral – Sua solução para canais de contato em apenas um lugar
   </title>
   {/* Google Tag Manager for WordPress by gtm4wp.com */}
   {/* End Google Tag Manager for WordPress by gtm4wp.com */}
