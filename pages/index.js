@@ -6,8 +6,9 @@ return (
            <title> Primeira Página</title>
        </head>
        <body>
-           <div>
-               <h1>Primeira página</h1>
+           <div class="container">
+               <h1 class="page-title">Primeira página</h1>
+               <p class="page-subtitle"> primeiro texto da página</p>
            </div>
        </body>
    </html>
