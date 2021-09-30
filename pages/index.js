@@ -4,6 +4,7 @@ return (
    <html>
        <head>
            <title> Primeira Página</title>
+           <link rel="stylesheet" href="./style.css"></link>
        </head>
        <body>
            <div class="container">
