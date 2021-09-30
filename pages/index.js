@@ -1,6 +1,6 @@
 function Home() {
   ;<>
-  <title> Imersão Dev Alura - Aula 01</title>
+  <title> Imersão Dev Alura - Aula 02</title>
   <div className="container">
     <h1 className="page-title">Calculadora de média</h1>
     <p className="page-subtitle">
