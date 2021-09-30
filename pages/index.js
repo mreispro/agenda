@@ -1,15 +1,12 @@
 function Home() {
     
-return  (
-    <>
-      <h1>Products</h1> 
-      <ul>
-        {products.map((product) => (
-          <li key={product.id}>{product.name}</li>
-        ))}
-      </ul>
-    </>
-  )
+return (
+    <html>
+        <body>
+            <h1>Hello world</h1>
+        </body>
+    </html>
+)
 }
    
 export default Home
