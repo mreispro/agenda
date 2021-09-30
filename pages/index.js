@@ -2,7 +2,7 @@ export const Home = () => (
   <>
     <title> Imersão Dev Alura - Aula 01</title>
     <div className="container">
-      <h1 className="page-title">Calculadora de média</h1>
+      <h1 className="page-title">Calculadora de média novo</h1>
       <p className="page-subtitle">
         Descubra qual a sua média de nota de todas as provas!
       </p>
