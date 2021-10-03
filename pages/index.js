@@ -1,15 +1,7 @@
-// pages/about.js
-
-// This page can can be pre-rendered without
-// external data: It will be pre-rendered
-// into a HTML file at build time.
-export default function About() {
-  return ;<>
-  {/* Hello world */}
-  <div className="awesome" style={{ border: "1px solid red" }}>
-    <label htmlFor="name">Enter your name: </label>
-    <input type="text" id="name" />
+export default function home() {
+  <div>
+    <h1> hello world </h1>
   </div>
-  <p>Enter your HTML here</p>
-</>
+  
+  return home
 }
