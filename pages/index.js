@@ -1,12 +1,11 @@
-export default function home() {
-;<>
-  {/* Hello world */}
-  <div className="awesome" style={{ border: "1px solid red" }}>
-    <label htmlFor="name">Enter your name: </label>
-    <input type="text" id="name" />
-  </div>
-  <p>Enter your HTML here</p>
-</>
-}
+// pages/about.js
 
-return home
+// This page can can be pre-rendered without
+// external data: It will be pre-rendered
+// into a HTML file at build time.
+export default function About() {
+  return <div>
+    <h1>About Us</h1>
+    {/* ... */}
+  </div>
+}
