@@ -1,26 +1,17 @@
-function Home() {
-  ;<>
-  <title> Imersão Dev Alura - Aula 02</title>
-  <div className="container">
-    <h1 className="page-title">Calculadora de média</h1>
-    <p className="page-subtitle">
-      Descubra qual a sua média de nota de todas as provas!
-    </p>
-    <img
-      src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-conversor-de-moedas.svg"
-      className="page-logo"
-      alt
-    />
-  </div>
-  <a href="https://alura.com.br/" target="_blank">
-    <img
-      src="https://www.alura.com.br/assets/img/home/alura-logo.svg"
-      alt
-      className="alura-logo"
-    />
-  </a>
-</>
+import * as React from "react"
 
-
+function SvgComponent(props) {
+  return (
+    <svg
+      style={{
+        flex: 1
+      }}
+      xmlns="http://www.w3.org/2000/svg"
+      {...props}
+    >
+      <path stroke="red" fill="#00f" d="M10 10H110V110H10z" />
+    </svg>
+  )
 }
-export default Home
+
+export default SvgComponent
