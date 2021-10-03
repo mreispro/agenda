@@ -1,3 +1,4 @@
+function home() {
 ;<>
   {/* Hello world */}
   <div className="awesome" style={{ border: "1px solid red" }}>
@@ -6,3 +7,6 @@
   </div>
   <p>Enter your HTML here</p>
 </>
+}
+
+export default home
