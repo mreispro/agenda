@@ -1,4 +1,4 @@
-function home() {
+export default function home() {
 ;<>
   {/* Hello world */}
   <div className="awesome" style={{ border: "1px solid red" }}>
@@ -9,4 +9,4 @@ function home() {
 </>
 }
 
-export default home
+return home
